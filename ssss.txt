@@ -1,2 +1,0 @@
-https://github.com/Zh-Drea/Prot.git
-git@github.com:Zh-Drea/Prot.git
